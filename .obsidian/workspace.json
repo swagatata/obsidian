@@ -28,14 +28,17 @@
             "id": "c450b1a5f68d23ed",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Optiver Interview Prep.md",
-                "mode": "source",
-                "source": false
+                "file": "J.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
               },
-              "icon": "lucide-file",
-              "title": "Optiver Interview Prep"
+              "icon": "lucide-layout-dashboard",
+              "title": "J"
             }
           }
         ],
@@ -200,11 +203,11 @@
   },
   "active": "c450b1a5f68d23ed",
   "lastOpenFiles": [
-    "Optiver Interview Prep.md",
-    "Optiver Interview Prep.md",
     "Untitled 1.canvas",
+    "J.canvas",
+    "Optiver Interview Prep.md",
+    "Optiver Interview Prep.md",
     "open file.md",
-    "Untitled.canvas",
     "Welcome.md",
     "2025-05-23.md"
   ]
