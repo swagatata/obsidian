@@ -1,0 +1,7 @@
+{
+	"nodes":[
+		{"id":"d8e697de438a6a85","type":"text","text":"Idea\n\neasily make your personal library available for your community","x":-920,"y":-1060,"width":247,"height":242},
+		{"id":"f965a983b81dc94b","x":-1007,"y":-780,"width":334,"height":260,"type":"text","text":"User Story\n\n+ open app\n+ search for book\n+ if available, reserve it\n\n"}
+	],
+	"edges":[]
+}

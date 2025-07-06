@@ -13,36 +13,18 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Untitled 1.canvas",
+                "file": "community library.canvas",
                 "viewState": {
-                  "x": 0,
-                  "y": 0,
+                  "x": -438.5,
+                  "y": -508,
                   "zoom": 0
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "Untitled 1"
-            }
-          },
-          {
-            "id": "c450b1a5f68d23ed",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "J.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "J"
+              "title": "community library"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -201,12 +183,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c450b1a5f68d23ed",
+  "active": "382a517a85e6c79d",
   "lastOpenFiles": [
-    "Untitled 1.canvas",
+    "Optiver Interview Prep.md",
+    "community library.canvas",
     "J.canvas",
-    "Optiver Interview Prep.md",
-    "Optiver Interview Prep.md",
     "open file.md",
     "Welcome.md",
     "2025-05-23.md"
