@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled 1.canvas",
+                "file": "Tax Filing 2024-25.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Untitled 1"
+              "title": "Backlinks for Tax Filing 2024-25"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled 1.canvas",
+                "file": "Tax Filing 2024-25.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Untitled 1"
+              "title": "Outgoing links from Tax Filing 2024-25"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled 1.canvas",
+                "file": "Tax Filing 2024-25.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Untitled 1"
+              "title": "Outline of Tax Filing 2024-25"
             }
           },
           {
@@ -161,8 +161,7 @@
               "title": "Source Control"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -183,14 +182,16 @@
   },
   "active": "9d9b70f18897a7db",
   "lastOpenFiles": [
-    "Keeping your boss happy.md",
+    "open file.md",
     "Tax Filing 2024-25.md",
+    "README.md",
+    "LICENSE",
+    "Keeping your boss happy.md",
     "Untitled.canvas",
     "Untitled.md",
     "community library.canvas",
     "Optiver Interview Prep.md",
     "J.canvas",
-    "open file.md",
     "Welcome.md",
     "2025-05-23.md"
   ]
