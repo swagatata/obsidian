@@ -7,3 +7,10 @@
 08:25  Departure from Heathrow Terminal 4
 19:35  Arrive at Muscat
 20:00  Enter the airport
+
+### 6 Jan
+
+03:20. Enter Muscat Airport
+05:20  Departure from Muscat Airport
+07:30. Arrive at Hyderabad
+
